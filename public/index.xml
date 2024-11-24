@@ -6,6 +6,12 @@
       <description>Last 10 notes on 🪴 Quartz 4.0</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Welcome to Quartz</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description>This is a blank Quartz installation. See the documentation for how to get started.</description>
+    <pubDate>Sun, 24 Nov 2024 20:56:51 GMT</pubDate>
+  </item><item>
     <title>24th Nov 2024</title>
     <link>https://quartz.jzhao.xyz/Daily-notes/24th-Nov-2024</link>
     <guid>https://quartz.jzhao.xyz/Daily-notes/24th-Nov-2024</guid>
@@ -59,12 +65,6 @@
     <guid>https://quartz.jzhao.xyz/Themes/Isaac</guid>
     <description>temp.</description>
     <pubDate>Mon, 18 Nov 2024 09:52:02 GMT</pubDate>
-  </item><item>
-    <title>18th Nov 2024</title>
-    <link>https://quartz.jzhao.xyz/Daily-notes/2024/November/18th-Nov-2024</link>
-    <guid>https://quartz.jzhao.xyz/Daily-notes/2024/November/18th-Nov-2024</guid>
-    <description>General thoughts on today Location:: Templeton BIG Decision List Task List It’s my 49th Birthday! Starting my 50th revolution around the sun. Feels a strange one this year - don’t know why, getting old maybe, disconnected maybe.</description>
-    <pubDate>Mon, 18 Nov 2024 09:23:23 GMT</pubDate>
   </item>
     </channel>
   </rss>
