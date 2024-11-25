@@ -53,6 +53,7 @@ const config: QuartzConfig = {
         },
       },
     },
+	outputDir: "../published-notes", // Add this line
   },
   plugins: {
     transformers: [
